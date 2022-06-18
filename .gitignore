@@ -1,3 +1,6 @@
+.clang-format
+.vscode
+
 *~
 _*
 *.o
